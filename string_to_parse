@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/"
+  xmlns:v="http://www.w3.org/2006/vcard/ns#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="Info sessions calendar" about="https://uwaterloo.ca/co-operative-education/home" property="dc:title" />
+<link rel="canonical" href="https://uwaterloo.ca/co-operative-education/home" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="https://uwaterloo.ca/co-operative-education/node/9" />
+  <title>Info sessions calendar | Co-operative Education</title>
+  <style type="text/css" media="all">@import url("https://uwaterloo.ca/co-operative-education/modules/system/system.base.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/modules/system/system.menus.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/modules/system/system.messages.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/modules/system/system.theme.css?m8edfo");</style>
+<style type="text/css" media="all">@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/contrib/calendar/css/calendar_multiday.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/custom/ckeditor_socialmedia/css/ckeditor_socialmedia.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/contrib/date/date_api/date.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/contrib/date/date_popup/themes/datepicker.1.7.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/contrib/date/date_repeat_field/date_repeat_field.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/modules/field/theme/field.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/modules/node/node.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/modules/search/search.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/modules/user/user.css?m8edfo");</style>
+<style type="text/css" media="screen">@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/custom/uw_a11y/css/uw_a11y.css?m8edfo");</style>
+<style type="text/css" media="all">@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_ct_contact/css/uw_ct_contact.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_ct_custom_listing/css/uw_ct_custom_listing.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_ct_event/css/uw_ct_event.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_ct_home_page_banner/css/banner.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_ct_image_gallery/css/image-galleries.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_ct_news_item/css/uw_ct_news_item.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_ct_person_profile/css/uw_ct_person_profile.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_ct_writer_tips/css/uw_ct_writer_tips_style.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/custom/uw_display_writer_tips/css/uw_display_writer_tips.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_nav_global_footer/css/uw_nav_global_footer.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_nav_global_header/css/uw_nav_global_header.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_nav_site_footer/css/uw_nav_site_footer.css?m8edfo");</style>
+<style type="text/css" media="screen">@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_wysiwyg_ckeditor/css/uw_wysiwyg_ckeditor.css?m8edfo");</style>
+<style type="text/css" media="all">@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/contrib/views/css/views.css?m8edfo");</style>
+<style type="text/css" media="all">@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/contrib/ctools/css/ctools.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_ct_home_page_banner/css/uw_banner_slideshow.css?m8edfo");</style>
+<style type="text/css" media="all">@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/themes/uw_core_theme/css/base.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/themes/uw_fdsu_theme/css/fdsu.css?m8edfo");
+@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/themes/uw_fdsu_theme/css/colors.css?m8edfo");</style>
+<style type="text/css" media="print">@import url("https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/themes/uw_fdsu_theme/css/print.css?m8edfo");</style>
+  <script type="text/javascript" src="https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/contrib/jquery_update/replace/jquery/jquery.min.js?v=1.5.2"></script>
+<script type="text/javascript" src="https://uwaterloo.ca/co-operative-education/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://uwaterloo.ca/co-operative-education/misc/drupal.js?m8edfo"></script>
+<script type="text/javascript" src="https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/custom/ckeditor_socialmedia/js/ckeditor_socialmedia_twitter_widget.js?m8edfo"></script>
+<script type="text/javascript" src="https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/custom/ckeditor_socialmedia/js/ckeditor_socialmedia_facebook.js?m8edfo"></script>
+<script type="text/javascript" src="https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/custom/ckeditor_socialmedia/js/ckeditor_socialmedia_twitter.js?m8edfo"></script>
+<script type="text/javascript" src="https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/custom/ckeditor_socialmedia/js/ckeditor_socialmedia_livestream.js?m8edfo"></script>
+<script type="text/javascript" src="https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/custom/uw_video_embed/scripts/uw_video_embed.js?m8edfo"></script>
+<script type="text/javascript" src="https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/modules/features/uw_ct_home_page_banner/js/uw_banner_slideshow.js?m8edfo"></script>
+<script type="text/javascript" src="https://uwaterloo.ca/co-operative-education/profiles/uw_base_profile/themes/uw_core_theme/scripts/searchtext.js?m8edfo"></script>
+<style type="text/css" media="screen">
+#tableform td, tr{
+border-style:none;
+}
+</style>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/co-operative-education\/","pathPrefix":"","ajaxPageState":{"theme":"uw_fdsu_theme","theme_token":"dKqUMpodyGSo3akqXbwFrmO4FpH9TX60ovuo2cJyJEc","js":{"profiles\/uw_base_profile\/modules\/contrib\/jquery_update\/replace\/jquery\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/uw_base_profile\/modules\/custom\/ckeditor_socialmedia\/js\/ckeditor_socialmedia_twitter_widget.js":1,"profiles\/uw_base_profile\/modules\/custom\/ckeditor_socialmedia\/js\/ckeditor_socialmedia_facebook.js":1,"profiles\/uw_base_profile\/modules\/custom\/ckeditor_socialmedia\/js\/ckeditor_socialmedia_twitter.js":1,"profiles\/uw_base_profile\/modules\/custom\/ckeditor_socialmedia\/js\/ckeditor_socialmedia_livestream.js":1,"profiles\/uw_base_profile\/modules\/custom\/uw_video_embed\/scripts\/uw_video_embed.js":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_home_page_banner\/js\/uw_banner_slideshow.js":1,"profiles\/uw_base_profile\/themes\/uw_core_theme\/scripts\/searchtext.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/uw_base_profile\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"profiles\/uw_base_profile\/modules\/custom\/ckeditor_socialmedia\/css\/ckeditor_socialmedia.css":1,"profiles\/uw_base_profile\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/uw_base_profile\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/uw_base_profile\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/uw_base_profile\/modules\/custom\/uw_a11y\/css\/uw_a11y.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_contact\/css\/uw_ct_contact.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_custom_listing\/css\/uw_ct_custom_listing.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_event\/css\/uw_ct_event.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_home_page_banner\/css\/banner.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_image_gallery\/css\/image-galleries.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_news_item\/css\/uw_ct_news_item.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_person_profile\/css\/uw_ct_person_profile.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_writer_tips\/css\/uw_ct_writer_tips_style.css":1,"profiles\/uw_base_profile\/modules\/custom\/uw_display_writer_tips\/css\/uw_display_writer_tips.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_nav_global_footer\/css\/uw_nav_global_footer.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_nav_global_header\/css\/uw_nav_global_header.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_nav_site_footer\/css\/uw_nav_site_footer.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_wysiwyg_ckeditor\/css\/uw_wysiwyg_ckeditor.css":1,"profiles\/uw_base_profile\/modules\/contrib\/views\/css\/views.css":1,"profiles\/uw_base_profile\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/uw_base_profile\/modules\/features\/uw_ct_home_page_banner\/css\/uw_banner_slideshow.css":1,"profiles\/uw_base_profile\/themes\/uw_core_theme\/css\/base.css":1,"profiles\/uw_base_profile\/themes\/uw_fdsu_theme\/css\/fdsu.css":1,"profiles\/uw_base_profile\/themes\/uw_fdsu_theme\/css\/colors.css":1,"profiles\/uw_base_profile\/themes\/uw_fdsu_theme\/css\/print.css":1}},"uw_banner_slideshow":{"transitionspeed":"400","slidespeed":"7000","autoplay":1},"ckeditor_socialmedia":{"twitter_shell_background":"000000","twitter_shell_foreground":"ffffff","twitter_tweets_background":"ffffff","twitter_tweets_foreground":"000000","twitter_tweets_links":"0033ff","facebook_colorscheme":"light","livestream_color":"e7e7e7","livestream_icon_color":"777777","livestream_icon_color_over":"888888"}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in two-sidebars page-node page-node- page-node-9 node-type-uw-web-page org_default" >
+<!--[if lt IE 7]><div id="ie6message">Your version of Internet Explorer web browser is insecure, not supported by Microsoft, and does not work with this web site. Please use one of these links to upgrade to a modern web browser: <a href="http://www.mozilla.org/firefox/">Firefox</a>, <a href="http://www.google.com/chrome">Google Chrome</a>, <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home">Internet Explorer</a>.</div><![endif]-->
+    <div id="site" class="page with-navigation clearfix">
+  <div id="skip">
+    <a href="#main" class="element-invisible element-focusable">Skip to main</a>
+    <a href="#footer" class="element-invisible element-focusable">Skip to footer</a>
+  </div>
+  <div id="header">
+    
+<div id="uw-header" class="clearfix">
+
+	<a id="uw-logo" href="//uwaterloo.ca/" id="uw-wordmark">University of Waterloo</a>
+
+	<div id="uw-search">
+		<form title="search" method="get" action="//uwaterloo.ca/search">
+			<div>
+				<label id="uw-search-label" for="uw-search-term">Search</label>
+				<input id="uw-search-term" type="text" size="31" tabindex="2" accesskey="s" name="q" />
+				<input id="uw-search-submit" class="chevron-submit" type="submit" value="Search" tabindex="3" />
+				<input type="hidden" value="default_frontend" name="client" />
+				<input type="hidden" value="default_frontend" name="proxystylesheet" />
+			</div>
+		</form>
+	</div>
+
+	
+<ul class="global-menu"><li><a href="//uwaterloo.ca/about/">About Waterloo</a></li><li><a href="//uwaterloo.ca/faculties-academics/">Faculties &amp; Academics</a></li><li><a href="//uwaterloo.ca/offices-services/">Offices &amp; Services</a></li><li><a href="http://campaign.uwaterloo.ca/">Support Waterloo</a></li></ul>
+</div>
+    <div id="site-header"><a href="https://uwaterloo.ca/co-operative-education/" title="Co-operative Education" rel="home"><img src="https://uwaterloo.ca/co-operative-education/sites/ca.co-operative-education/files/co-operative-education-wordmark.png" alt="Co-operative Education"/></a></div>
+    <div id="site-navigation">  <div class="region region-sidebar-first">
+    <div id="main-menu" class="site-menu">
+  <ul class="menu"><li class="first leaf home mid-452"><a href="https://uwaterloo.ca/co-operative-education/" title="">Home</a></li>
+<li class="collapsed about-co-operative-education mid-447"><a href="https://uwaterloo.ca/co-operative-education/about-co-operative-education">About Co-operative Education</a></li>
+<li class="collapsed why-co-op- mid-453"><a href="https://uwaterloo.ca/co-operative-education/why-co-op">Why co-op?</a></li>
+<li class="leaf important-dates mid-486"><a href="https://uwaterloo.ca/co-operative-education/important-dates-may-august-2012">Important dates</a></li>
+<li class="collapsed get-hired mid-459"><a href="https://uwaterloo.ca/co-operative-education/get-hired">Get hired</a></li>
+<li class="collapsed work-abroad mid-465"><a href="https://uwaterloo.ca/co-operative-education/working-abroad">Work abroad</a></li>
+<li class="collapsed prepare-for-work mid-474"><a href="https://uwaterloo.ca/co-operative-education/prepare-work">Prepare for work</a></li>
+<li class="collapsed at-work mid-479"><a href="https://uwaterloo.ca/co-operative-education/work">At work</a></li>
+<li class="expanded active-trail employer-info-sessions mid-674"><a href="https://uwaterloo.ca/co-operative-education/employer-info-sessions" class="active-trail">Employer info sessions</a><ul class="menu"><li class="first last leaf info-sessions-calendar mid-786"><a class="active-trail active" href="http://www.ceca.uwaterloo.ca/students/sessions.php" title="Information sessions calendar">Info sessions calendar</a></li>
+</ul></li>
+<li class="collapsed co-op-of-the-year-award mid-784"><a href="https://uwaterloo.ca/co-operative-education/co-op-student-year-award">Co-op of the Year award</a></li>
+<li class="last leaf site-index mid-788"><a href="https://uwaterloo.ca/co-operative-education/site-index">Site index</a></li>
+</ul></div>
+</div>
+</div>
+  </div><!--/header-->
+  <div id="main" class="clearfix">
+        
+<div id="content" style="width: auto;">
+<script type="text/javascript" src="overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
+
+<div id="text">
+<br />
+<div id="breadcrumbs"><a href="http://uwaterloo.ca/co-operative-education/">Home</a> >  <a href="http://uwaterloo.ca/co-operative-education/">Students</a> >Information Sessions</div>
+<br />
+
+    <p><i>Changes in the schedule may occur, so please check back on day of event for most current information.</i></p>
+
+    
+	  <h3>Employer Information Session Details</h3>
+      <table width="100%" cellspacing="2" cellpadding="0" border="0" id="tableform">
+
+
+      <tr><td width="15%" style="font-weight:bold">Employer: </td>
+         <td width="45%">Bloomberg L.P.</td>
+         <td width="*" rowspan="8" valign="top" align="center">
+
+			</td></tr>
+
+         <tr><td width="15%" style="font-weight:bold">Date: </td>
+         <td width="45%">November 3, 2014</td></tr>
+
+         <tr><td width="15%" style="font-weight:bold">Time: </td>
+         <td width="45%">7:30 PM - 9:30 PM</td></tr>
+
+         <tr><td width="15%" style="font-weight:bold">Location: </td>
+         <td width="45%">TC 2218 </td></tr>
+	 
+	 <tr><td width="15%" style="font-weight:bold">Web Site: </td>
+         <td width="45%"><a href="http://www.bloomberg.com/careers" target="_blank">http://www.bloomberg.com/careers</a></td></tr>
+
+         <tr><td width="60%" colspan="2"><i>For Graduating Students - MATH - Financial Analysis & Risk Management, MATH - Business Administration, ARTS - Accounting & Financial Management</i></td></tr>
+
+
+
+         <tr><td width="60%" colspan="2"><i></i></td></tr>
+
+
+         
+
+
+         
+         <tr><td width="100%" colspan="3"><a href="sessions.php?month_num=11&year_num=2014">Back to Listing</a> |
+                              <a href="sessions_emp.php?id=2014Nov">Check RSVP Response (employers)</a>
+                  </td></tr>
+
+
+
+         <tr><td width="100%" colspan="3" align="right"><i>
+         You are not logged in.</i></td></tr>
+
+
+      <tr><td width="15%" style="font-weight:bold">Employer: </td>
+         <td width="45%">Rakuten Inc.</td>
+         <td width="*" rowspan="8" valign="top" align="center">
+
+			</td></tr>
+
+         <tr><td width="15%" style="font-weight:bold">Date: </td>
+         <td width="45%">November 4, 2014</td></tr>
+
+         <tr><td width="15%" style="font-weight:bold">Time: </td>
+         <td width="45%">5:00 PM - 6:00 PM</td></tr>
+
+         <tr><td width="15%" style="font-weight:bold">Location: </td>
+         <td width="45%">TC 2218 </td></tr>
+	 
+	 <tr><td width="15%" style="font-weight:bold">Web Site: </td>
+         <td width="45%"><a href="http://www.topcareer.jp/inter/company_search/?id=001224" target="_blank">http://www.topcareer.jp/inter/company_search/?id=001224</a></td></tr>
+
+         <tr><td width="60%" colspan="2"><i>For Graduating Students - MATH - Information Technology Management, MATH - Computer Science, ENG - System Design, ENG - Software, ENG - Computer</i></td></tr>
+
+
+
+         <tr><td width="60%" colspan="2"><i>Selected as one of the most innovative companies by Forbes! Internet company Rakuten is coming to Waterloo to look for IT engineers for full-time and internship position. A great chance to talk directly with one of the best engineers in Japan!<BR/><BR/>Masayuki Chatani, the former CTO at Sony Computer Entertainment Inc. who currently holds the seat in the executive board is coming as a speaker. He is one of the best engineers in Japan who played the key role in the development of the Playstation. </i></td></tr>
+
+
+         
+
+
+         
+         <tr><td width="100%" colspan="3"><a href="sessions.php?month_num=11&year_num=2014">Back to Listing</a> |
+                              <a href="sessions_emp.php?id=2014Nov">Check RSVP Response (employers)</a>
+                  </td></tr>
+
+
+
+         <tr><td width="100%" colspan="3" align="right"><i>
+         You are not logged in.</i></td></tr>

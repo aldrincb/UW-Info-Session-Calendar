@@ -1,13 +1,21 @@
+#!/usr/bin/python
+
+# import modules
 import urllib2
 import re
+import dateUtil
 
-# the year and month are hard coded for testing
-string_to_parse = urllib2.urlopen("http://www.ceca.uwaterloo.ca/students/sessions_details.php?id=2014Oct").read()
+def main():
 
-regex = re.compile("\">(.*)</")
-r = regex.search(string_to_parse)
-r
-regex.match(string_to_parse)
-r.groups()
-r.groupdict()
-print regex.findall(string_to_parse)
+	url = "http://www.ceca.uwaterloo.ca/students/sessions_details.php?id=" 
+	url += dateUtil.currentYear() 
+	url += dateUtil.currentMonth() 
+	string_to_parse = urllib2.urlopen(url).read()
+	
+	print re.findall ( '45%">(.*?)</td', string_to_parse, re.DOTALL)
+
+
+if __name__ == '__main__':
+    main()
+
+
